@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ren</h1>
-<h3 align="center">Aspiring Backend Developer from the Philippines 🇵🇭</h3>
+<h3 align="center">
+  Aspiring Backend Developer from the Philippines
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" alt="Philippine Flag" width="24" style="vertical-align:middle;"/>
+</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/11D0XkJInM2ssU/giphy.gif" alt="Studio Ghibli Totoro" width="320"/>
