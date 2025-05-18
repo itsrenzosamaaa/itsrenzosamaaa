@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/11D0XkJInM2ssU/giphy.gif" alt="Studio Ghibli Totoro" width="320"/>
+  <img src="https://media.giphy.com/media/11D0XkJInM2ssU/giphy.gif" alt="Studio Ghibli Totoro" width="450"/>
 </p>
 
 <p align="center">
