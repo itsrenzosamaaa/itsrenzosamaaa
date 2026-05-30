@@ -1,12 +1,8 @@
-<h1 align="center">Hey there 👋, I'm Ren</h1>
+<h1 align="center">Hey there, I'm Ren</h1>
 
 <h3 align="center">
 Full-Stack Developer • Cloud Enthusiast • Builder of Scalable Systems
 </h3>
-
-<p align="center">
-🇵🇭 • Node.js • AWS • System Design
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/11D0XkJInM2ssU/giphy.gif" width="450"/>
@@ -16,7 +12,7 @@ Full-Stack Developer • Cloud Enthusiast • Builder of Scalable Systems
 
 ## 🚀 About Me
 
-I am a full-stack developer passionate about building high-performance APIs, cloud-native solutions, and scalable system architectures.
+I am a full-stack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" alt="Philippine Flag" width="24" style="vertical-align:middle;"/> passionate about building high-performance APIs, cloud-native solutions, and scalable system architectures.
 
 - ☁️ **Currently exploring:** AWS Architecture, Infrastructure as Code, and Event-Driven Systems  
 - 💬 **Ask me about:** Node.js, PHP, APIs, and backend systems  
@@ -35,7 +31,7 @@ I am a full-stack developer passionate about building high-performance APIs, clo
 
 ## 🧩 Projects
 
-### [🔍 Lost & Found Management System](https://tlc-tracify.vercel.app)
+### [🔍 Tracify (Capstone Project)](https://tlc-tracify.vercel.app)
 A smart system for tracking and matching lost and found items.
 
 - Browse lost corner and found corner feeds
@@ -47,7 +43,7 @@ A smart system for tracking and matching lost and found items.
 
 ---
 
-### [☁️ Docyumentor](https://docyumentor.com)
+### [✨ Docyumentor](https://docyumentor.com)
 A platform that can transform any document into structured data in seconds.
 
 - Upload documents such as receipts, invoices, certificates, and forms  
