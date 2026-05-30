@@ -1,11 +1,11 @@
-<h1 align="center">Hey there 👋, I'm Renzo Flestado</h1>
+<h1 align="center">Hey there 👋, I'm Ren</h1>
 
 <h3 align="center">
-Backend Developer • Cloud Enthusiast • Builder of Scalable Systems
+Full-Stack Developer • Cloud Enthusiast • Builder of Scalable Systems
 </h3>
 
 <p align="center">
-🇵🇭 Philippines • Node.js • Next.js • AWS • System Design
+🇵🇭 • Node.js • AWS • System Design
 </p>
 
 <p align="center">
@@ -16,126 +16,106 @@ Backend Developer • Cloud Enthusiast • Builder of Scalable Systems
 
 ## 🚀 About Me
 
-I'm a backend-focused developer passionate about building scalable web applications, cloud-native solutions, and developer-friendly systems.
+I am a full-stack developer passionate about building high-performance APIs, cloud-native solutions, and scalable system architectures.
 
-Currently exploring:
-
-- ☁️ AWS Cloud Services
-- 🔗 GraphQL APIs
-- 🏗️ System Design & Architecture
-- 🚀 DevOps & CI/CD
-- 📦 Infrastructure as Code (AWS CDK & Terraform)
+- ☁️ **Currently exploring:** AWS Architecture, Infrastructure as Code, and Event-Driven Systems  
+- 💬 **Ask me about:** Node.js, PHP, APIs, and backend systems  
+- ⚡ **Fun fact:** I enjoy breaking monoliths into clean, maintainable services  
 
 ---
 
-## 💼 What I'm Working On
+## 💼 Experience Highlights
 
-- Building CMS & Marketplace platforms
-- Designing scalable backend APIs
-- AWS infrastructure automation
-- Mentoring interns and reviewing code
-- Improving software architecture practices
+- Built and maintained backend APIs for web applications  
+- Worked with cloud deployments and CI/CD pipelines  
+- Designed modular backend architectures for scalability  
+- Collaborated with teams and mentored junior developers/interns  
+
+---
+
+## 🧩 Projects
+
+### [🔍 Lost & Found Management System](https://tlc-tracify.vercel.app)
+A smart system for tracking and matching lost and found items.
+
+- Browse lost corner and found corner feeds
+- Role-based access control (Admin / Staff / Student)
+- Image upload and cloud storage integration  
+- Audit logs and status tracking  
+
+**Stack:** Next.js, Node.js, MongoDB, Cloudinary
+
+---
+
+### [☁️ Docyumentor](https://docyumentor.com)
+A platform that can transform any document into structured data in seconds.
+
+- Upload documents such as receipts, invoices, certificates, and forms  
+- Extract structured data using AI-powered document processing  
+- Redact sensitive or personal information automatically  
+- Review and verify extracted data before finalization  
+- Generate enhanced structured outputs from verified information  
+
+**Stack:** AWS, DynamoDB, S3, Lambda, Textract, Bedrock, Comprehend
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-
+### Languages & Backend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ### Cloud & DevOps
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![TiKV](https://img.shields.io/badge/TiKV_Distributed_DB-DC382D?style=for-the-badge&logoColor=white)
 
-## 🌟 Featured Projects
-
-### 🏪 Marketplace CMS Platform
-A modular content management system with:
-
-- Chapters
-- Marketplaces
-- Categories
-- Dynamic Schemas
-- Reusable Content Blocks
-
-### 🔍 Lost & Found Management System
-
-Features:
-
-- Smart item matching
-- Role-based access control
-- Cloud image storage
-- Monitoring & audit trails
-
-### ☁️ AWS Infrastructure Projects
-
-- CDK Deployments
-- Serverless Applications
-- CI/CD Pipelines
-- Cloud Architecture Experiments
+### Frontend (Supporting Skills)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsrenzosamaaa&show_icons=true&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrenzosamaaa&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrenzosamaaa&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/itsrenzosamaaa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:renzoflestado512@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://fb.com/itsrenzosamaaa">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Facts
-
-- I enjoy designing backend architectures more than building UIs.
-- I can spend hours optimizing APIs for a few milliseconds.
-- AWS billing scares me more than production bugs.
-- Coffee-powered deployments ☕🚀
+<p align="center">
+  <i>"Building systems that scale, learning every day, and enjoying the process."</i>
+</p>
